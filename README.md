@@ -5,7 +5,7 @@ Built simple RESTful Api with using Node.js, Express, MongoDB and Mongoose.
 According to privacy issues this repo does not contain MongoDB credentials. So that MongoDB credentials must be provided manually as a file named db_config.js under the folder config. On your db_config file write your URL in given form below.
 ```js
 module.export = {
-    URL: [your URL]
+    URL: [your_URL]
 };
 ```
 The standard URI connection scheme has the form:
